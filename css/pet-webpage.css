@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  font-size: 40px;
+}
+
+p {
+  font-family: monospace;
+  line-height: normal;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 30px;
+}
